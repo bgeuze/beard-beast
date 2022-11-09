@@ -1,4 +1,4 @@
 .hero-body {
-    background-image: url("img/hero-banner.png") !important;
+    background-image: url("./img/hero-banner.png") !important;
     background-size: cover;
 }
